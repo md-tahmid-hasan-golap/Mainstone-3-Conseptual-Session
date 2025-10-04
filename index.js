@@ -14,3 +14,21 @@
 // console.log(typeof name)
 // var age;
 // console.log(age)
+
+
+// let age = 10 
+// console.log(age)
+
+// age += 20
+// console.log(age)
+
+
+let money = 10;
+
+for(let i = 0; i <= 10; i++){
+    console.log("money", i)
+
+}
+
+
+
